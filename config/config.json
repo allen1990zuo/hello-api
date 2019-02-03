@@ -1,0 +1,11 @@
+
+{
+	"DB_URL": "mongodb://localhost:27017/hello-app",
+	"TEST_DB_URL": "mongodb://localhost:27017/test-hello-app",
+	"SERVER_URL": "http://localhost",
+	"SERVER_PORT":  "3019",
+	"SERVER_RUN_MESSAGE": "server is listening on :",
+	"HELLO_MESSAGE": "Hello ",	
+	"STRANGER": "stranger",
+	"SYMBOL": "!."
+}
